@@ -1,1 +1,0 @@
-https://github.com/koutto/pi-pwnbox-rogueap/blob/main/README.md
